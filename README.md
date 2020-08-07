@@ -1,7 +1,7 @@
 ### Hi there, I'm Afir Sofiane  👋
 
 ## I'm a Developer and Student!
-- 🔭 I’m currently working on a [Sport web project][website]!
+- 🔭 I’m currently working on a [Sport web project][sport]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -66,6 +66,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
+[sport]:https://github.com/fianso98/sport
 [website]: https://codeSTACKr.com
 [facebook]:https://www.facebook.com/fian98so
 [twitter]: https://twitter.com/Lvesofiane
