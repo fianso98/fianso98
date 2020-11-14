@@ -2,7 +2,7 @@
 
 ## I'm a Junior Developer and Student!
 
-- 🔭 I’m currently working on a [Sport web project][sport]!
+- 🔭 I’m currently working on a [Sport web project](sport)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -11,13 +11,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="fianso.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Facebook" width="22px" src="https://www.sololearn.com/images/fb-story-icon.jpg" />][sololearn]
+[<img align="left" alt="fianso.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://fianso98.github.io/)
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Lvesofiane)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sofiane-afir-26a037185/)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/sofiane_afir/)
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://www.facebook.com/fian98so)
+[<img align="left" alt="Facebook" width="22px" src="https://www.sololearn.com/images/fb-story-icon.jpg" />](https://www.sololearn.com/Profile/7716333)
 
 <br />
 
@@ -53,7 +53,7 @@
 - [Amazon clone](https://clone-224d0.web.app/)
 - [Whats up clone](https://whatsapp-clone-27c5c.web.app/)
 - [Airbnb clone](https://airbnb-clone-cdfd8.web.app/)
-- [ON working process][sport]
+- [ON working process](https://github.com/fianso98/sport)
 <!-- Project:END -->
 
 ---
@@ -99,14 +99,3 @@
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fianso98&show_icons=true&hide_border=true" />
-[airbnbclone]: https://airbnb-clone-cdfd8.web.app/
-[amazonclone]: https://clone-224d0.web.app/
-[whatsupclone]: https://whatsapp-clone-27c5c.web.app/
-[sport]: https://github.com/fianso98/sport
-[website]: https://fianso98.github.io/
-[facebook]:https://www.facebook.com/fian98so
-[twitter]: https://twitter.com/Lvesofiane
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://www.instagram.com/sofiane_afir/
-[linkedin]: https://www.linkedin.com/in/sofiane-afir-26a037185/
-[sololearn]: https://www.sololearn.com/Profile/7716333
