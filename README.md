@@ -50,9 +50,9 @@
 <!-- Project:START -->
 
 - [A SAAS broker application - An application to choose the best supplier depending of some contraints ](https://github.com/fianso98/SAAS_APP_BROKER)
-- [Amazon clone][amazonclone]
-- [Whats up clone][whatsupclone]
-- [Airbnb clone][airbnbclone]
+- [Amazon clone][Amazonclone]
+- [Whats up clone][Whatsupclone]
+- [Airbnb clone][Airbnbclone]
 - [ON working process][sport]
 <!-- Project:END -->
 
