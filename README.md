@@ -1,6 +1,7 @@
-### Hi there, I'm Afir Sofiane  👋
+### Hi there, I'm Afir Sofiane 👋
 
 ## I'm a Junior Developer and Student!
+
 - 🔭 I’m currently working on a [Sport web project][sport]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -44,32 +45,53 @@
 
 ---
 
-### 😏 Project that i'm proud of 
+### 😏 Project that i'm proud of
+
 <!-- Project:START -->
+
 - [A SAAS broker application - An application to choose the best supplier depending of some contraints ](https://github.com/fianso98/SAAS_APP_BROKER)
+- [Amazon clone][amazon-clone]
+- [Whats up clone][whatsup-clone]
+- [Airbnb clone][airbnb-clone]
 - [ON working process][sport]
 <!-- Project:END -->
 
 ---
 
-### 📕 My certificates 
+### 📕 My certificates
+
 <!-- Certificates:START -->
 
 ## CSS
+
 ![CSS_certificate](https://user-images.githubusercontent.com/45125773/89904361-bd1a5c00-dbe0-11ea-8b4d-069552933c39.jpg)
+
 ## HTML
+
 ![HTML_certificate](https://user-images.githubusercontent.com/45125773/89904370-bf7cb600-dbe0-11ea-88d2-01708f858587.jpg)
+
 ## java
+
 ![Java_certificate](https://user-images.githubusercontent.com/45125773/89904379-c1467980-dbe0-11ea-85c8-a2126c325724.jpg)
+
 ## javascript
+
 ![JavaScript_certificate](https://user-images.githubusercontent.com/45125773/89904384-c3103d00-dbe0-11ea-91f3-3df46222c0b0.jpg)
+
 ## jQuery
+
 ![jQuery_certificate](https://user-images.githubusercontent.com/45125773/89904386-c4416a00-dbe0-11ea-98c9-d82388d1856d.jpg)
+
 ## PHP
+
 ![PHP_certificate](https://user-images.githubusercontent.com/45125773/89904395-c60b2d80-dbe0-11ea-99a5-78f092683e8c.jpg)
+
 ## React
+
 ![react_certificate](https://user-images.githubusercontent.com/45125773/89904398-c7d4f100-dbe0-11ea-80e0-b97eda7c71bf.jpg)
+
 ## digital marketing
+
 ![0001](https://user-images.githubusercontent.com/45125773/89906644-8d208800-dbe3-11ea-9951-e0ede74f0cb0.jpg)
 
 <!-- Certificates:END -->
@@ -77,9 +99,11 @@
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fianso98&show_icons=true&hide_border=true" />
-
-[sport]:https://github.com/fianso98/sport
-[website]: https://github.com/fianso98/
+[Airbnb-clone]:https://airbnb-clone-cdfd8.web.app/
+[Amazon-clone]:https://clone-224d0.web.app/
+[Whatsup-clone]:https://whatsapp-clone-27c5c.web.app/
+[sport]: https://github.com/fianso98/sport
+[website]: https://fianso98.github.io/
 [facebook]:https://www.facebook.com/fian98so
 [twitter]: https://twitter.com/Lvesofiane
 [youtube]: https://youtube.com/codeSTACKr
