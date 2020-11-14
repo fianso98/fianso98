@@ -50,9 +50,9 @@
 <!-- Project:START -->
 
 - [A SAAS broker application - An application to choose the best supplier depending of some contraints ](https://github.com/fianso98/SAAS_APP_BROKER)
-- [Amazon clone][amazon-clone]
-- [Whats up clone][whatsup-clone]
-- [Airbnb clone][airbnb-clone]
+- [Amazon clone][amazonclone]
+- [Whats up clone][whatsupclone]
+- [Airbnb clone][airbnbclone]
 - [ON working process][sport]
 <!-- Project:END -->
 
@@ -99,9 +99,9 @@
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fianso98&show_icons=true&hide_border=true" />
-[Airbnb-clone]:https://airbnb-clone-cdfd8.web.app/
-[Amazon-clone]:https://clone-224d0.web.app/
-[Whatsup-clone]:https://whatsapp-clone-27c5c.web.app/
+[Airbnbclone]: https://airbnb-clone-cdfd8.web.app/
+[Amazonclone]: https://clone-224d0.web.app/
+[Whatsupclone]: https://whatsapp-clone-27c5c.web.app/
 [sport]: https://github.com/fianso98/sport
 [website]: https://fianso98.github.io/
 [facebook]:https://www.facebook.com/fian98so
