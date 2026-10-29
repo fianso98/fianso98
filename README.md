@@ -21,7 +21,6 @@ GET /sofiane-afir                                                     200 OK
 | Repo | What it is |
 | --- | --- |
 | [carbon-date-ts](https://github.com/fianso98/carbon-date-ts) | A TypeScript take on PHP's Carbon: parse, compare and format dates with a fluent API. Tested with Jest. |
-| [ChatAlgeria](https://github.com/fianso98/ChatAlgeria) | NestJS social API: auth with JWT, posts, comments, friends and real-time messaging over WebSockets, with a GitHub Actions CI/CD pipeline. |
 | [wc-tool](https://github.com/fianso98/wc-tool) | A TypeScript clone of the Unix `wc` command line tool. |
 | [Data-Structures-Algorithms-in-Typescript](https://github.com/fianso98/Data-Structures-Algorithms-in-Typescript) | Classic data structures and algorithms, implemented in TypeScript. |
 
